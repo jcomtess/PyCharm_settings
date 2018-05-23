@@ -1,0 +1,44 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="CommitMessageInspectionProfile">
+        <profile version="1.0">
+          <inspection_tool class="CommitMessageSpellChecking" enabled="false" level="TYPO" enabled_by_default="false" />
+        </profile>
+      </component>
+      <component name="ProjectDictionaryState">
+        <dictionary name="jms" />
+      </component>
+      <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+        <ConfirmationsSetting value="2" id="Add" />
+      </component>
+      <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.6 (PyCharm_env)" project-jdk-type="Python SDK" />
+      <component name="PropertiesComponent">
+        <property name="last_opened_file_path" value="$USER_HOME$/Projects/PyCharm_projects" />
+        <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+      </component>
+      <component name="SharedFileColors">
+        <fileColor scope="Project Files" color="Green" />
+        <fileColor scope="Non-Project Files" color="Yellow" />
+        <fileColor scope="Problems" color="Rose" />
+      </component>
+      <component name="SvnConfiguration">
+        <configuration>$USER_HOME$/.subversion</configuration>
+      </component>
+      <component name="TerminalProjectOptionsProvider">
+        <option name="myStartingDirectory" value="$USER_HOME$/Projects/PyCharm_env" />
+      </component>
+      <component name="VcsContentAnnotationSettings">
+        <option name="myShow1" value="true" />
+        <option name="myLimit" value="2678400000" />
+      </component>
+      <component name="VcsManagerConfiguration">
+        <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+        <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="true" />
+        <confirmMoveToFailedCommit value="0" />
+        <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
+        <option name="MAXIMUM_HISTORY_ROWS" value="5000" />
+      </component>
+    </defaultProject>
+  </component>
+</application>

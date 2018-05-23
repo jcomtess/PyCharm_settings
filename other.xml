@@ -1,0 +1,45 @@
+<application>
+  <component name="CvsApplicationLevelConfiguration">
+    <option name="PATH_TO_PASSWORD_FILE" value="$USER_HOME$/Projects/.cvspass" />
+    <option name="SEND_ENVIRONMENT_VARIABLES_TO_SERVER" value="true" />
+  </component>
+  <component name="PyCodeInsightSettings">
+    <option name="SHOW_IMPORT_POPUP" value="true" />
+  </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="$USER_HOME$/Projects/PyCharm_env/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/Projects/PyCharm_environment/bin/python" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="$USER_HOME$/Projects/PyCharm_environment/bin/python" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_TRIALTEST">
+      <map>
+        <entry key="$USER_HOME$/Projects/PyCharm_environment/bin/python" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="RecentTaskRepositories">
+    <GitHub shared="false" url="https://github.com">
+      <option name="assignedIssuesOnly" value="false" />
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <password />
+      <token>dfc9df9bdfcbdf9ddfcfdf9edf99df9fdf9fdfccdf9edf9adfc8df9cdfc9dfc8dfccdf9cdf92dfc9df92df9bdfc8df9adfc8dfc9dfc9dfcedf9bdf98df9fdfc9dfc8dfcfdf9edf9adf9bdf9cdf99df93</token>
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="repoAuthor" value="jcomtess" />
+      <option name="repoName" value="PyCharm_settings" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <option name="user" value="" />
+      <username />
+    </GitHub>
+  </component>
+</application>
