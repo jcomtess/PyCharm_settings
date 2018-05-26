@@ -1,5 +1,5 @@
 <application>
   <component name="TerminalOptionsProvider">
-    <option name="myShellPath" value="$USER_HOME$/Projects/Virtual_environments/PyCharm_Life/pyvenv.cfg" />
+    <option name="myShellPath" value="$USER_HOME$/.virtualenvs/Projects/Virtual_environments/Wave/pyvenv.cfg" />
   </component>
 </application>
