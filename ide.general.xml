@@ -1,12 +1,9 @@
 <application>
   <component name="GeneralSettings">
     <option name="autoSaveIfInactive" value="true" />
-    <option name="confirmExit" value="false" />
-    <option name="confirmOpenNewProject2" value="1" />
+    <option name="defaultProjectDirectory" value="$USER_HOME$/projects/PyCharm_projects" />
   </component>
   <component name="Registry">
-    <entry key="debugger.watches.in.variables" value="false" />
-    <entry key="debugger.valueTooltipAutoShowOnSelection" value="true" />
-    <entry key="ide.editor.tabs.open.at.the.end" value="true" />
+    <entry key="ide.tooltip.initialDelay" value="703" />
   </component>
 </application>
