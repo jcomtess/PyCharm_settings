@@ -1,5 +1,0 @@
-<application>
-  <component name="TerminalOptionsProvider">
-    <option name="myShellPath" value="$USER_HOME$/.virtualenvs/Projects/Virtual_environments/Wave/pyvenv.cfg" />
-  </component>
-</application>
