@@ -1,9 +1,4 @@
 <application>
-  <component name="GithubAccounts">
-    <account id="9ef64fa0-82bf-471b-b4c2-b5ec018c6cc4" name="jcomtess">
-      <server host="github.com" />
-    </account>
-  </component>
   <component name="GithubSettings">
     <option name="LOGIN" value="jcomtess" />
     <option name="AUTH_TYPE" value="BASIC" />
